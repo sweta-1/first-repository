@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'HelveticaNeueLTStd67MediumCondensed';
+    src: url('../fonts/helveticaneueltstd-mdcn.eot');
+    src: url('../fonts/helveticaneueltstd-mdcn.eot') format('embedded-opentype'),
+         url('../fonts/helveticaneueltstd-mdcn.woff') format('woff'),
+         url('../fonts/helveticaneueltstd-mdcn.ttf') format('truetype'),
+         url('../fonts/helveticaneueltstd-mdcn.svg#HelveticaNeueLTStd67MediumCondensed') format('svg');
+}
+@font-face {
+	font-family: chtrade_regular;
+	src: url('../fonts/chtrade_regular.eot');
+	src: url('../fonts/chtrade_regular.eot?#iefix') format('embedded-opentype'), 
+	url('../fonts/chtrade_regular.woff2') format('woff2'), 
+	url('../fonts/chtrade_regular.woff') format('woff'), 
+	url('../fonts/chtrade_regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal
+}
+@font-face {
+  font-family: 'BellGothicStd-Light';
+  src: url('BellGothicStd-Light.eot') format('embedded-opentype');
+  src: url('../fonts/BellGothicStd-Light.eot') format('embedded-opentype'),
+         url('../fonts/BellGothicStd-Light.woff') format('woff'),
+         url('../fonts/BellGothicStd-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BellGothicStd-Black';
+  src: url('/fonts/BellGothicStd-Black.eot') format('embedded-opentype');
+  src: url('../fonts/BellGothicStd-Black.eot') format('embedded-opentype'),
+         url('../fonts/BellGothicStd-Black.woff') format('woff'),
+         url('../fonts/BellGothicStd-Black.ttf') format('truetype');font-weight: normal;
+}
+@font-face {
+  font-family: 'Alegreya-Regular';
+  src: url('/fonts/Alegreya-Regular.eot') format('embedded-opentype');  
+  src: url('../fonts/Alegreya-Regular.eot') format('embedded-opentype'),
+         url('../fonts/Alegreya-Regular.woff') format('woff'),
+         url('../fonts/Alegreya-Regular.ttf') format('truetype');
+		 font-weight: normal;
+}
+@font-face {
+  font-family: 'Alegreya-Bold';
+  src: url('../fonts/Alegreya-Bold.eot') format('embedded-opentype');
+  src: url('../fonts/Alegreya-Bold.eot') format('embedded-opentype'),
+         url('../fonts/Alegreya-Bold.woff') format('woff'),
+         url('../fonts/Alegreya-Bold.ttf') format('truetype');
+		 font-weight: normal;
+}
+@font-face {
+  font-family: 'NewsGothicBT-Italic';
+  src: url('../fonts/NewsGothicBT-Italic.eot') format('embedded-opentype');
+  src: url('../fonts/NewsGothicBT-Italic.eot') format('embedded-opentype'),
+         url('../fonts/NewsGothicBT-Italic.woff') format('woff'),
+         url('../fonts/NewsGothicBT-Italic.ttf') format('truetype');
+		 font-weight: normal;
+}
+@font-face {
+  font-family: 'NewsGothicBT-Roman';
+  src: url('/fonts/NewsGothicBT-Roman.eot') format('embedded-opentype');  
+  src: url('../fonts/NewsGothicBT-Roman.eot') format('embedded-opentype'),
+         url('../fonts/NewsGothicBT-Roman.woff') format('woff'),
+         url('../fonts/NewsGothicBT-Roman.ttf') format('truetype');
+		 font-weight: normal;
+}
